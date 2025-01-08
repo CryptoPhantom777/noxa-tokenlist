@@ -4,10 +4,26 @@
   "logoURI": "https://noxa.fi/favicon.png",
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tokens": [
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "chainId": 20240603,
+      "decimals": 18,
+      "address": "0x4200000000000000000000000000000000000006",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "NOXA Token",
+      "symbol": "NOXA",
+      "chainId": 20240603,
+      "decimals": 18,
+      "address": "0x6778980c66bcd9A8F74D73BD1b608483c40E8DdE",
+      "logoURI": "https://noxa.fi/favicon.png"
+    },
     {
       "name": "Wrapped Ether",
       "symbol": "WETH",

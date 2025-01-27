@@ -1,10 +1,10 @@
 {
   "name": "NOXA List",
-  "timestamp": "2025-01-15T00:00:00.000Z",
+  "timestamp": "2025-01-25T00:00:00.000Z",
   "logoURI": "https://noxa.fi/favicon.png",
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "tokens": [
@@ -23,6 +23,14 @@
       "decimals": 18,
       "address": "0xdFF5feb9B6AF999e7F1f1e64B6E4Dae30a9FaEaF",
       "logoURI": "https://pengo.army/favicon.png"
+    },
+    {
+      "name": "ACat",
+      "symbol": "ACAT",
+      "chainId": 2741,
+      "decimals": 18,
+      "address": "0x24e329047ea4deCdc9a076fB0c4AcF39E54B6aDD",
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/abstract/0x24e329047ea4decdc9a076fb0c4acf39e54b6add.png"
     },
     {
       "name": "Wrapped Ether",

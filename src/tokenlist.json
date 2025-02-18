@@ -1,10 +1,10 @@
 {
   "name": "NOXA List",
-  "timestamp": "2025-01-25T00:00:00.000Z",
+  "timestamp": "2025-02-15T00:00:00.000Z",
   "logoURI": "https://noxa.fi/favicon.png",
   "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "tokens": [
@@ -55,6 +55,22 @@
       "decimals": 18,
       "address": "0x4200000000000000000000000000000000000006",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Wrapped Hype",
+      "symbol": "WHYPE",
+      "chainId": 999,
+      "decimals": 18,
+      "address": "0x5555555555555555555555555555555555555555",
+      "logoURI": "https://external-content.duckduckgo.com/ip3/app.hyperliquid.xyz.ico"
+    },
+    {
+      "name": "Hypaw",
+      "symbol": "PAW",
+      "chainId": 999,
+      "decimals": 18,
+      "address": "0x29927A33E49Aece4Bc07C3CeB0006de42800636C",
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/hyperevm/0x29927a33e49aece4bc07c3ceb0006de42800636c.png"
     }
   ]
 }

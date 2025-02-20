@@ -1,10 +1,10 @@
 {
   "name": "NOXA List",
-  "timestamp": "2025-02-15T00:00:00.000Z",
+  "timestamp": "2025-02-19T00:00:00.000Z",
   "logoURI": "https://noxa.fi/favicon.png",
   "version": {
     "major": 1,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "tokens": [
@@ -64,6 +64,14 @@
       "address": "0x5555555555555555555555555555555555555555",
       "logoURI": "https://external-content.duckduckgo.com/ip3/app.hyperliquid.xyz.ico"
     },
+    {
+      "name": "HyperHyppo",
+      "symbol": "HYPPO",
+      "chainId": 999,
+      "decimals": 18,
+      "address": "0x28201Aa111250948C940df71Cdc58d3a976E30Cd",
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/hyperevm/0x28201aa111250948c940df71cdc58d3a976e30cd.png"
+    }
     {
       "name": "Hypaw",
       "symbol": "PAW",

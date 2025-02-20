@@ -5,7 +5,7 @@
   "version": {
     "major": 1,
     "minor": 5,
-    "patch": 0
+    "patch": 1
   },
   "tokens": [
     {
@@ -71,7 +71,7 @@
       "decimals": 18,
       "address": "0x28201Aa111250948C940df71Cdc58d3a976E30Cd",
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/hyperevm/0x28201aa111250948c940df71cdc58d3a976e30cd.png"
-    }
+    },
     {
       "name": "Hypaw",
       "symbol": "PAW",

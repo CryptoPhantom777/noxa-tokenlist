@@ -1,11 +1,11 @@
 {
   "name": "NOXA List",
-  "timestamp": "2025-02-19T00:00:00.000Z",
+  "timestamp": "2025-02-20T00:00:00.000Z",
   "logoURI": "https://noxa.fi/favicon.png",
   "version": {
     "major": 1,
-    "minor": 5,
-    "patch": 1
+    "minor": 6,
+    "patch": 0
   },
   "tokens": [
     {
@@ -79,6 +79,54 @@
       "decimals": 18,
       "address": "0x29927A33E49Aece4Bc07C3CeB0006de42800636C",
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/hyperevm/0x29927a33e49aece4bc07c3ceb0006de42800636c.png"
-    }
+    },
+    {
+      "name": "Wrapped Sonic",
+      "symbol": "WS",
+      "chainId": 146,
+      "decimals": 18,
+      "address": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
+      "logoURI": "https://raw.githubusercontent.com/Shadow-Exchange/shadow-assets/main/blockchains/sonic/assets/0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38/logo.png"
+    },
+    {
+      "name": "Bridged USDC",
+      "symbol": "USDC.e",
+      "chainId": 146,
+      "decimals": 6,
+      "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
+      "logoURI": "https://raw.githubusercontent.com/Shadow-Exchange/shadow-assets/main/blockchains/sonic/assets/0x29219dd400f2Bf60E5a23d13Be72B486D4038894/logo.png"
+    },
+    {
+      "name": "Bridged EURC",
+      "symbol": "EURC.e",
+      "chainId": 146,
+      "decimals": 6,
+      "address": "0xe715cbA7B5cCb33790ceBFF1436809d36cb17E57",
+      "logoURI": "https://raw.githubusercontent.com/Shadow-Exchange/shadow-assets/main/blockchains/sonic/assets/0xe715cbA7B5cCb33790ceBFF1436809d36cb17E57/logo.png"
+    },
+    {
+      "name": "Wrapped Ether on Sonic",
+      "symbol": "WETH",
+      "chainId": 146,
+      "decimals": 18,
+      "address": "0x50c42dEAcD8Fc9773493ED674b675bE577f2634b",
+      "logoURI": "https://raw.githubusercontent.com/Shadow-Exchange/shadow-assets/main/blockchains/sonic/assets/0x50c42dEAcD8Fc9773493ED674b675bE577f2634b/logo.png"
+    },
+    {
+      "name": "HeyAnon",
+      "symbol": "Anon",
+      "chainId": 146,
+      "decimals": 18,
+      "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+      "logoURI": "https://raw.githubusercontent.com/Shadow-Exchange/shadow-assets/main/blockchains/sonic/assets/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "chainId": 146,
+      "decimals": 6,
+      "address": "0x6047828dc181963ba44974801FF68e538dA5eaF9",
+      "logoURI": "https://raw.githubusercontent.com/Shadow-Exchange/shadow-assets/main/blockchains/sonic/assets/0x6047828dc181963ba44974801FF68e538dA5eaF9/logo.png"
+    },
   ]
 }

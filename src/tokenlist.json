@@ -1,10 +1,10 @@
 {
   "name": "NOXA List",
-  "timestamp": "2025-08-28T05:00:00.000Z",
+  "timestamp": "2025-08-24T05:00:00.000Z",
   "logoURI": "https://noxa.fi/favicon.png",
   "version": {
     "major": 1,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
   "tokens": [
@@ -143,6 +143,22 @@
       "decimals": 18,
       "address": "0x4a3D501c9803DcA550b7334cE3AAB4F3Ea0e541B",
       "logoURI": "https://raw.githubusercontent.com/CryptoPhantom777/noxa-tokenlist/main/src/logos/mitocat.png"
+    },
+    {
+      "name": "Wrapped Plasma",
+      "symbol": "WXPL",
+      "chainId": 9745,
+      "decimals": 18,
+      "address": "0x6100E367285b01F48D07953803A2d8dCA5D19873",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x405FBc9004D857903bFD6b3357792D71a50726b0.png"
+    },
+    {
+      "name": "Trillions",
+      "symbol": "TRILLIONS",
+      "chainId": 9745,
+      "decimals": 18,
+      "address": "0x69539aEE769eBA8856465eD592879e1Fa3286280",
+      "logoURI": "https://trillions.supply/logo.png"
     }
   ]
 }

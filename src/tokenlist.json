@@ -4,7 +4,7 @@
   "logoURI": "https://noxa.fi/favicon.png",
   "version": {
     "major": 1,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   },
   "tokens": [
@@ -159,6 +159,30 @@
       "decimals": 18,
       "address": "0x69539aEE769eBA8856465eD592879e1Fa3286280",
       "logoURI": "https://trillions.supply/logo.png"
+    },
+    {
+      "name": "Agora USD",
+      "symbol": "AUSD",
+      "chainId": 143,
+      "decimals": 6,
+      "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/monad/assets/0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a/logo.png"
+    },
+    {
+      "name": "Wrapped MON",
+      "symbol": "WMON",
+      "chainId": 143,
+      "decimals": 18,
+      "address": "0x3bd359C1119dA7Da1D913D1C4D2B7c461115433A",
+      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/monad/assets/0x3bd359C1119dA7Da1D913D1C4D2B7c461115433A/logo.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "chainId": 143,
+      "decimals": 6,
+      "address": "0x754704Bc059F8C67012fEd69BC8A327a5aafb603",
+      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/monad/assets/0x754704Bc059F8C67012fEd69BC8A327a5aafb603/logo.png"
     }
   ]
 }

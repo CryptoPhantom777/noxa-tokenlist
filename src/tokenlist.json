@@ -1,10 +1,10 @@
 {
   "name": "NOXA List",
-  "timestamp": "2025-08-24T05:00:00.000Z",
+  "timestamp": "2025-11-22T05:00:00.000Z",
   "logoURI": "https://noxa.fi/favicon.png",
   "version": {
     "major": 1,
-    "minor": 9,
+    "minor": 10,
     "patch": 0
   },
   "tokens": [
@@ -183,6 +183,14 @@
       "decimals": 6,
       "address": "0x754704Bc059F8C67012fEd69BC8A327a5aafb603",
       "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/monad/assets/0x754704Bc059F8C67012fEd69BC8A327a5aafb603/logo.png"
+    },
+    {
+      "name": "gnad",
+      "symbol": "GNAD",
+      "chainId": 143,
+      "decimals": 18,
+      "address": "0x504656c837Fa9f919eD0CAA7f7A98d4280752f1B",
+      "logoURI": "https://raw.githubusercontent.com/CryptoPhantom777/noxa-tokenlist/main/src/logos/gnad.jpg"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "NOXA List",
-  "timestamp": "2025-11-22T05:00:00.000Z",
+  "timestamp": "2025-11-23T05:00:00.000Z",
   "logoURI": "https://noxa.fi/favicon.png",
   "version": {
     "major": 1,
-    "minor": 10,
+    "minor": 11,
     "patch": 0
   },
   "tokens": [
@@ -191,6 +191,14 @@
       "decimals": 18,
       "address": "0x504656c837Fa9f919eD0CAA7f7A98d4280752f1B",
       "logoURI": "https://raw.githubusercontent.com/CryptoPhantom777/noxa-tokenlist/main/src/logos/gnad.jpg"
+    },
+    {
+      "name": "NOXA Fun Monad",
+      "symbol": "NXF",
+      "chainId": 143,
+      "decimals": 18,
+      "address": "0xbabA08c272eff7E66F1f3F155417Dad7Dc875eb1",
+      "logoURI": "https://raw.githubusercontent.com/CryptoPhantom777/noxa-tokenlist/main/src/logos/nxf.webp"
     }
   ]
 }
